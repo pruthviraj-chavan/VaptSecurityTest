@@ -1,0 +1,6 @@
+@VaptSecurityTest_HostAddress = http://localhost:5264
+
+GET {{VaptSecurityTest_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
